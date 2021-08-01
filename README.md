@@ -4,7 +4,7 @@ Interactive 3D Mountain/Terrain made using three.js library, utilizing concepts 
 
 ## To run the app
 
-### Install dependencies (only the first time)
+### Install dependencies
 > npm install
 
 ### Run the local server at localhost:8080
