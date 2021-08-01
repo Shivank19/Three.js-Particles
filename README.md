@@ -1,6 +1,6 @@
 # Three.js-Particles
 
-Interactive 3D Mountain/Terrain made using three.js library, utilizing concepts of Alpha Maps, Displacement Maps and Cameras and Lighting
+Interactive Particle System Animation made using three.js library, utilizing concepts of Particles, Randomization and Texture Mapping
 
 ## To run the app
 
